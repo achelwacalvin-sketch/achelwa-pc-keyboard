@@ -1,5 +1,7 @@
 # Achelwa PC Keyboard
 
+A custom PC-style Android keyboard.
+
 A lightweight Android Input Method Editor (IME), written in Kotlin with no third-party runtime libraries. The input service supports Android 6.0 and newer and targets Android 14 (API 34).
 
 ## Build an APK on GitHub
